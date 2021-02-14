@@ -1,8 +1,6 @@
 # PyTorch_study
 PyTorch Computer Vision Cookbook를 공부한 내용을 정리하는 저장소입니다.
 
----
-
 ## 교재
 ![image](https://user-images.githubusercontent.com/75726938/107875100-53696a80-6f01-11eb-942b-3b25dfb275d9.png)
 

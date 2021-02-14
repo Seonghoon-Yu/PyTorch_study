@@ -6,5 +6,5 @@ PyTorch Computer Vision Cookbook를 공부한 내용을 정리하는 저장소�
 
 ---
 
-#### [1장 CNN 신경망 구축하고 MNIST 데이터셋으로 학습하기](https://github.com/Seonghoon-Yu/PyTorch_study/blob/main/ch01/ch01_Basic_CNN_model.ipynb)
+####  [CNN 신경망 구축하고 MNIST 데이터셋으로 학습하기](https://github.com/Seonghoon-Yu/PyTorch_study/blob/main/ch01/ch01_Basic_CNN_model.ipynb)
 

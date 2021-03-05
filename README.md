@@ -11,3 +11,5 @@ PyTorch Computer Vision Cookbook를 공부한 내용을 정리하는 저장소�
 #### ch02. [Binary Classification](https://github.com/Seonghoon-Yu/PyTorch_study/blob/main/ch02/ch02_Binary_Classification.ipynb)
 
 #### ch03. [Multi-Class Image Classification](https://github.com/Seonghoon-Yu/PyTorch_study/blob/main/ch03/ch03_Multi_Class_Image_Classification.ipynb)
+
+#### ch04. [Single Object Detection](https://github.com/Seonghoon-Yu/PyTorch_study/tree/main/ch04)
